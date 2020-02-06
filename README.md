@@ -1,2 +1,11 @@
 # DataDriven-NLP-Project
-A full cycle NLP Project in Python
+
+Extracting and visualizing gender-specific features and implementation of ML models for gender classification given an input text.
+
+Dataset: Blog Authorship Corpus (CSV Format)
+Link: https://www.kaggle.com/rtatman/blog-authorship-corpus
+
+Techniques used:
+- Multinomial Naive Bayes
+- Logistic Regression
+- Linear Support Vector Classifier
