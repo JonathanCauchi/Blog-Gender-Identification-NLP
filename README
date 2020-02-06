@@ -1,0 +1,9 @@
+Activate environment file by entering this command in terminal
+
+'conda activate nlp'
+
+Data Link: https://www.kaggle.com/rtatman/blog-authorship-corpus
+
+Note that you may have to use pip to install some needed libraries. If any errors occur in running the cells, check for any comments.
+
+The path to the data/corpus is hardcoded, please change the directory in the 2nd cell. If you would like to run the notebook quickly and save time, change the number of rows. (40k rows was the number I worked with)
