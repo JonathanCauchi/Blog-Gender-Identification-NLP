@@ -9,3 +9,5 @@ Techniques used:
 - Multinomial Naive Bayes
 - Logistic Regression
 - Linear Support Vector Classifier
+
+To run notebook, first activate enviromnent by entering 'conda activate nlp' in terminal.
