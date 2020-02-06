@@ -11,4 +11,4 @@ Techniques used:
 - Logistic Regression
 - Linear Support Vector Classifier
 
-To run notebook, first activate environment by entering 'conda activate nlp' in terminal.
+To run notebook, first activate environment by entering *conda activate nlp* in terminal.
