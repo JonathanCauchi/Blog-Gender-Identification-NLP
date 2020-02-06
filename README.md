@@ -1,4 +1,4 @@
-# DataDriven-NLP-Project
+Blog-Gender-NLP-Project
 
 Extracting and visualizing gender-specific features and implementing ML models for gender classification given an input text.
 
